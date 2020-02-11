@@ -43,3 +43,6 @@ While these six components are typical, the urban water cycle varies among citie
 While not directly included in the cycle, stormwater runoff can be transformed from a waste product into a resource by practices of low-impact development (LID). Rainwater harvesting is a shortcut from source to use, where rainwater is collected for outdoor applications such as gardening. A given urban system may combine all of these methods in varying degrees.
 
 Each component in the urban water cycle brings its own benefits and challenges, and understanding them is the first step to developing sustainable water solutions for our growing population.
+
+
+©Biao Huang @Ningbo University
