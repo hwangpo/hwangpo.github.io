@@ -10,6 +10,4 @@ To be updated.
 
 ---
 
-_[Almost Everything about Urban Drainage](hwangpo.github.io)_
-
-©Biao Huang @Ningbo University
+_[Almost Everything about Urban Drainage](hwangpo.github.io)_ ©Biao Huang @Ningbo University
